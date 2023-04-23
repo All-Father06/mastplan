@@ -1,0 +1,45 @@
+EXPERIMENT 1:
+Create a repository in github:
+
+After that open Git Bash:
+write the following commands for pull:
+
+mkdir te    (te is repository name)
+cd te
+echo "#te" >> README.md
+cat README.md
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ghawde/te.git
+
+touch file1.html
+touch file2.html
+touch file3.html
+git add file1.html file2.html file3.html
+git commit -m"add three HTML files"
+git push origin main
+
+write the following commands for push:
+
+git clone https://github.com/Ghawde/te.git
+cd te
+git rm file1.html
+git rm file2.html
+git rm file3.html
+git commit-m "Removed files"
+git push
+
+Alternatives:
+Git Bash in the directory where the html files are present.
+
+GitBash:
+git clone https://github.com/All-Father06/scripted-pipeline.git
+cd scripted-pipeline
+git add Tr.html sy.html ce.html
+git commit -m "Added 3 HTML files"
+git push origin main
+git pull origin main
+
+
+
