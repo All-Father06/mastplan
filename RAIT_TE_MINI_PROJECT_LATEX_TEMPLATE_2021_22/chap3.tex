@@ -1,0 +1,139 @@
+\chapter{Proposed System}
+
+ 
+\section{Problem Statement} 
+
+The team has developed a web application for analysing ECGs of patients and detection of Wolff Parkinson White syndrome through irregular heartbeat and other pre-set parameters, in the process providing additional and useful information including symptoms, precautions and possible mode of treatments. Also, providing patients with connections to concerned health centres in the process of creating a one stop solution for this syndrome. The main task of our study is to create a detection-mechanism that can successfully and reliably detect even minute changes or irregularities in the ECG readings of a patient. A method that combines Convolutional Neural Network (CNN) and Naïve Bayes Classifier which makes use of Supervised Learning. Further, we pass these images to deep learning CNN model for feature extraction. 
+
+Through this, the developed stem aims to develop a web-application that can be accessed and operated by all involved set of users i.e. the patient side and medical professional/ diagnostic center and can provide highly accurate and useful insights that are fairly easy to interpret even for a user having very less or zero knowledge about how the detection systems in general work. 
+
+\subsection{Features of Wolff Parkinson White Detection System}  
+
+\begin{enumerate}
+	\item  Home Page:  
+	\begin{enumerate}
+		\item Provides specific information on WPW Syndrome.   
+		\item Allows user to explore other features provided in system.
+	\end{enumerate}
+	\item  Pre-ECG testing:  
+	\begin{enumerate}
+		\item Pre-set and widely known symptoms are listed 
+		\item User input evaluated.
+		\item Analysis of input on a probability-based approach. 
+		\item Decision communicated to user. 
+	\end{enumerate}
+	\item ECG Analysis:    
+	\begin{enumerate}
+		\item User advised for ECG will reach here. 
+		\item Makes use of ECG data in (.hea) and (.mat) format.
+		\item Analysis on provided set of ECG data.
+		\item Decision communicated based on detection outcome.
+	\end{enumerate}
+	\item Medical Centre:   
+	\begin{enumerate}
+		\item A list of medical centres for seeking further treatment if required. 
+	\end{enumerate} 
+	\item Treatment Page:  
+	\begin{enumerate}
+		\item Provides user with set of treatments that are routinely followed if detected.
+		\item Informs about the prescribed medicines, however, does not recommend usage.
+	\end{enumerate}
+\end{enumerate}
+
+
+\section{Proposed Methodology/Techniques}
+
+A project based on using Convolutional Neural Networks (CNNs) to detect WPW syndrome from ECG signals could involve the following steps:  
+
+\begin{itemize}
+	\item Data collection: Collect a dataset of ECG signals from patients with and without WPW syndrome. The dataset should be diverse, and representative of the population being studied.  
+	\item Data pre-processing: Pre-process the ECG signals to remove noise and artifacts that can interfere with the analysis. This could involve filtering, baseline correction, and normalization. 
+	\item Model selection: Choose a suitable CNN architecture for the task of detecting WPW syndrome from ECG signals.  
+	\item Model training: Train the CNN model using the pre-processed dataset. This involves optimizing the model parameters to minimize the loss function.  
+	\item Model evaluation: Evaluate the performance of the trained CNN model using various metrics such as accuracy, loss. Using a separate validation set for this purpose.  
+	\item Model deployment: Deploy the trained CNN model in a real-world setting for detecting WPW syndrome from ECG signals.  
+\end{itemize}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics{rait-dypu-logo.png}
+	\caption{System Architecture}
+	\label{fig:system-architecture}
+\end{figure}
+The above System Architecture consists of the following web pages:  
+\begin{itemize}
+	\item Home Page  
+	\item Symptoms Page 
+	\item Detection Page 
+	\item Treatment Page 
+	\item Medical Centers Page  
+\end{itemize}
+In addition to the above depicted System architecture, our team has also successfully developed an independent system that use a probability-based approach to determine whether or not an ECG is recommendable/ advisable for the patient in the first place. Based on the research of existing papers and open-source medical journal content available for access, the team has narrowed down on the most common symptoms that an individual suffering from WPW syndrome may encounter. These symptoms are listed on the interface following which a form is presented to the user. This form is designed for user to give input depending on the symptoms faced currently in a ‘yes’ or ‘no’ manner. Based on the user input provided in this form, the model is able to accurately predict if ECG is recommended or vice-versa. This feature has been added to avoid unwarranted process of ECG testing in the process helping system to focus only on cases where probability of positive WPW syndrome detection is higher in comparison. 
+
+The Different models used in the project are:  
+\begin{itemize}
+	\item Model to check if user should go for an ECG test 
+	\item Model to Detect WPW Syndrome using ECG Data (In the file format of .mat and .hea files 
+\end{itemize}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics{rait-dypu-logo.png}
+	\caption{Accuracy Comparison}
+	\label{fig:acuracy-compare}
+\end{figure}
+\section{System Design}
+
+In our system, database connectivity and backend development will be playing an important role in the primary design. Some amount of frontend development with good GUI interfacing will be required for the interactive webpages. Our system design will thus involve mostly dynamic pages along with some interactive widgets. All of these features will provide for the system design to be unique and give the system an altogether varied interface for the end user.  
+
+\subsection{Description of Algorithm}
+\begin{enumerate}
+	\item STEP 1: Open website homepage.
+	\item STEP 2: Hover and find enlisted features.
+	\item STEP 3: Choose the functionality you want to access and utilise. 
+	\item STEP 4: Go for pre-ECG testing to determine if ECG is needed.
+	\item STEP 5:  If advised, upload ECG file in desired format for detection purposes.
+	\item STEP 6:  Explore Trusted Medical Centers around offering particular treatment. 
+	\item STEP 7:  Allows to observe generic course of treatment and medicines offered. 
+\end{enumerate}
+ 
+\section{Details of Hardware/Software Requirement}
+
+The technologies which will be used by us during the course of the development of this application will be:  
+
+\begin{enumerate}
+	\item HTML 
+	\item CSS 
+	\item JavaScript
+	\item PHP 
+	\item XAMPP
+	\item MySQL 
+	\item Bootstrap
+	\item Python
+	\item Flask
+\end{enumerate}
+
+Hardware used in the procedure of creating the application:  
+
+\begin{enumerate}
+	\item Microsoft Windows 7/8/10 (32 or 64 bit 
+	\item 2 GB RAM minimum, 8 GB recommended  
+	\item 2 GB of available disk space minimum, 4 GB recommended
+	\item 1280 x 800 minimum screen resolution 
+	
+\end{enumerate}
+
+
+ 
+
+  
+
+ 
+
+
+
+
+
+
+
+

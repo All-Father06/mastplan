@@ -1,0 +1,317 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.17)  24 APR 2023 23:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./report.tex
+(report.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (RAITreport.cls
+
+LaTeX Warning: You have requested document class `RAITreport',
+               but the document class provides `iitbthesis'.
+
+Document Class: iitbthesis 2007/06/25 IIT Bombay Thesis Format
+Document Class `RAITreport' v0.95beta <18 Sept 07>
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+Two side is false
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+\epsfxsize=\dimen143
+\epsfysize=\dimen144
+) (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+\c@theorem=\count194
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+6.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+) (report.aux (prelude.aux) (chap1.aux) (Chap2.aux) (Chap3.aux)
+(Chap4.aux) (Chap5.aux))
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen145
+\scratchbox=\box52
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen146
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks18
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\openout2 = `prelude.aux'.
+
+ (prelude.tex
+<rait-dypu-logo.png, id=1, 251.43938pt x 110.66344pt>
+File: rait-dypu-logo.png Graphic file (type png)
+<use rait-dypu-logo.png>
+Package pdftex.def Info: rait-dypu-logo.png  used on input line 55.
+(pdftex.def)             Requested size: 170.7156pt x 75.1353pt.
+ [1
+
+
+
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/User/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./rait-dypu-logo.pn
+g>]
+File: rait-dypu-logo.png Graphic file (type png)
+<use rait-dypu-logo.png>
+Package pdftex.def Info: rait-dypu-logo.png  used on input line 70.
+(pdftex.def)             Requested size: 170.7156pt x 75.1353pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 70.
+ [1
+
+] [2
+
+] [0
+
+] [1
+
+] (report.toc [2
+
+])
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [3] (report.lot)
+\tf@lot=\write4
+\openout4 = `report.lot'.
+
+
+[4
+
+] (report.lof)
+\tf@lof=\write5
+\openout5 = `report.lof'.
+
+ [5
+
+])
+\openout2 = `chap1.aux'.
+
+ (chap1.tex
+Chapter 1.
+[1
+
+
+
+
+
+] [2]
+
+LaTeX Warning: Reference `eq2' on page 3 undefined on input line 20.
+
+File: rait-dypu-logo.png Graphic file (type png)
+<use rait-dypu-logo.png>
+Package pdftex.def Info: rait-dypu-logo.png  used on input line 26.
+(pdftex.def)             Requested size: 251.43875pt x 110.66315pt.
+[3]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 8
+5.
+ (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[4]) [5]
+! Undefined control sequence.
+l.65  \include{chap1}\add
+                         {text}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6
+
+
+]
+\openout2 = `Chap2.aux'.
+
+ (Chap2.tex
+Chapter 2.
+[7
+
+
+] [8]
+Overfull \hbox (8.76567pt too wide) in paragraph at lines 20--21
+[]\OT1/ptm/m/n/12 A case re-port of a then 15-year-old pa-tient with in-ter-mit
+-tent Wolff-Parkinson-White (WPW)
+ []
+
+[9] [10] [11] [12] [13] [14]) [15]
+\openout2 = `Chap3.aux'.
+
+ (Chap3.tex
+Chapter 3.
+[16
+
+
+
+
+] [17]
+File: rait-dypu-logo.png Graphic file (type png)
+<use rait-dypu-logo.png>
+Package pdftex.def Info: rait-dypu-logo.png  used on input line 59.
+(pdftex.def)             Requested size: 251.43875pt x 110.66315pt.
+ [18]
+File: rait-dypu-logo.png Graphic file (type png)
+<use rait-dypu-logo.png>
+Package pdftex.def Info: rait-dypu-logo.png  used on input line 81.
+(pdftex.def)             Requested size: 251.43875pt x 110.66315pt.
+ [19]) [20]
+\openout2 = `Chap4.aux'.
+
+ (Chap4.tex
+Chapter 4.
+) [21
+
+
+
+
+]
+\openout2 = `Chap5.aux'.
+
+ (Chap5.tex
+Chapter 5.
+[22
+
+
+
+
+]) [23] (report.bbl) [24
+
+
+
+] [25]
+Appendix A.
+File: rait-dypu-logo.png Graphic file (type png)
+<use rait-dypu-logo.png>
+Package pdftex.def Info: rait-dypu-logo.png  used on input line 105.
+(pdftex.def)             Requested size: 284.52602pt x 142.27177pt.
+[26
+
+]
+Appendix B.
+[27
+
+]
+Appendix C.
+[28
+
+] [29
+
+] (report.aux (prelude.aux) (chap1.aux) (Chap2.aux) (Chap3.aux)
+(Chap4.aux) (Chap5.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1782 strings out of 476331
+ 32382 string characters out of 5788237
+ 1858660 words of memory out of 5000000
+ 22171 multiletter control sequences out of 15000+600000
+ 536059 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,11n,76p,1811b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fon
+ts/type1/urw/times/utmb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/times/utmbi8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
+s/type1/urw/times/utmr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (38 pages, 181387 bytes).
+PDF statistics:
+ 170 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
