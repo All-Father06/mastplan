@@ -1,0 +1,47 @@
+EXPERIMENT 7:
+Create an image of php project and push on Dockerhub repository
+
+open cmd and type:
+mkdir php
+cd php
+code .  (it will open vs code with php folder)
+
+now make 2 files in that they are:
+
+1. index.php:
+write this:
+<html>
+  <?php echo"hello world from php container"?>
+</html>
+
+2. Dockerfile:
+write this:
+
+FROM php
+COPY ./index.php ./
+EXPOSE 3000
+CMD["php","-S","0.0.0.0:3000"]
+
+Click on terminal->open new terminal
+write this:
+
+docker build . -t srushtighawde(dockerhub username)/php
+docker run --name=php -p=3000:3000
+open google type localhost:3000(it will display hello world from php container)
+
+Now open windows power shell
+type this:
+
+docker images
+docker login
+docker tag srushtighawde(name of the image that is repository's name)/php srushtighawde(login name)/srushtighawde/php(repo. name)
+
+IT WILL LOOK AS:
+
+->docker tag srushtighawde/php srushtighawde/srushtighawde/php
+
+docker images(2 images name will be displayed)
+
+docker push srushtighawde/php {type the name of the image which is small i.e. the original one not the created one}
+
+done.
